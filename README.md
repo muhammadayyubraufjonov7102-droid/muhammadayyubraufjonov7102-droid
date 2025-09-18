@@ -6,7 +6,7 @@
 <!-- 👋 Animated Welcome -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  Assalomu alaykum! Men MuhammadAyyub 👨‍💻
+  Assalomu alaykum! Men MuhammadAyyub
 </h1>
 <h3 align="center">Backend Developer | Python | Django | REST API</h3>
 
@@ -25,7 +25,7 @@
 - Barcha loyihalarimni shu yerdan ko‘ring 👉 [GitHub Repos](https://github.com/muhammadayyubraufjonov7102-droid)
 
 ### 💬 Menga so‘rashingiz mumkin bo‘lgan mavzular
-- Python, Django, Git development  
+- Python, Django, Git, API development  
 
 ### 📫 Menga bog‘lanish
 - **Email:** muhammadayyubraufjonov7102@gmail.com  
@@ -50,7 +50,7 @@
 ---
 
 ### ⚡ Qiziqarli fakt
-> “student of Koran!” ✨
+> “STUDENT of Koran!” ✨
 
 ---
 
