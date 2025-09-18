@@ -8,7 +8,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=>+Hello+World!;>+I+Am+MuhammadAyyub;>+Backend+Developer;>+Python+%7C+Django+%7C+REST+API;>+Open+Source+Lover+%F0%9F%92%9A" />
 </p>
 
-<h1 align="center">Assalomu alaykum! 👋, I'm MuhammadAyyub</h1>
+<h1 align="center">
+  Assalomu alaykum!
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  </a>
+  I'm MuhammadAyyub
+</h1>
+
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
 <p align="center">
@@ -21,11 +28,11 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **Python, Django, REST API**
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/muhammadayyubraufjonov7102-droid?tab=repositories)
 - 💬 Ask me about **Backend development, APIs, Python**
 - 📫 How to reach me: **muhammadayyubraufjonov7102@gmail.com**
-- ⚡ Fun fact: **student of Koran**
+- ⚡ Fun fact: ** student of Koran**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,6 +55,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=muhammadayyubraufjonov7102-droid&show_icons=true&theme=merko" alt="stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadayyubraufjonov7102-droid&theme=merko" alt="streak" />
 </p>
+
 
 
 
