@@ -5,7 +5,7 @@
 
 <!-- 💻 Terminal uslubidagi animatsion banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E+Hello+World!;%3E+Men+MuhammadAyyub;%3E+Backend+Developer;from+Uzbekistan;sahifam+sizga +manfaatli+bo'ladi+degan+umiddaman+!!!%3E+Python+%7C+Django+%7C+REST+API;%3E+Open+Source+Lover+%F0%9F%92%9A" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E+Hello+World!;%3E+I+am+MuhammadAyyub;%3E+Backend+Developer;%3E+Python+%7C+Django+%7C+REST+API;%3E+Open+Source+Lover+%F0%9F%92%9A" />
 </p>
 
 ---
@@ -33,13 +33,13 @@
 
 ### 📫 Bog‘lanish uchun
 📧 **muhammadayyubraufjonov7102@gmail.com**  
-💬 **Telegram:** [@yourusername](https://t.me/@Muhammadayyub_Abdurrohmaan)
+💬 **Telegram:** [@yourusername](https://t.me/@muhammadayyub_abdurrohmaan)
 
 ### 📄 Mening tajribalarim
-[📜 Resume / Portfolio](https://muhammadayyubraufjonov7102-droid/tree/main)
+[📜 Resume / Portfolio](https://github.com/muhammadayyubraufjonov7102-droid)
 
 ### ⚡ Qiziqarli fakt
-*"student of koran 🎶"*
+*"Men kod yozganda terminal musiqasini yoqib qo‘yaman 🎶"*
 
 ---
 
@@ -83,6 +83,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadayyubraufjonov7102-droid&layout=compact&theme=tokyonight" />
 </p>
+
 
 
 
