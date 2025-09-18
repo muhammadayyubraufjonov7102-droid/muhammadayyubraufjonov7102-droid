@@ -5,7 +5,7 @@
 
 <!-- 🔥 Yonib-o'chadigan yozuv -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=00FF00&center=true&vCenter=true&width=500&lines=Assalomu+alaykum!+👋;I'm+MuhammadAyyub;Frontend+Developer+from+Uzbekistan"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=00FF00&center=true&vCenter=true&width=500&lines=Assalomu+alaykum!+👋;Men+MuhammadAyyub;Backend+Developer+from+Uzbekistan;Sahifamga xush kelibsiz!; Sahifam siz uchun manfaatli bo'ladi degan umiddaman!!!"/>
 </h1>
 
 <!-- 👀 Profil ko'rishlar -->
