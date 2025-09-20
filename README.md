@@ -6,7 +6,7 @@
 <!-- 👋 Animated Welcome -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  Assalomu alaykum!Men MuhammadAyyub
+  Assalomu alaykum!
 </h1>
 <h3 align="center">Backend Developer | Python | Django | REST API</h3>
 
